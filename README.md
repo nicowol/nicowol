@@ -1,8 +1,8 @@
-# Hello! ٩(ˊᗜˋ*)و
-
 <p align="center">
   <img src="assets/ica.JPG" alt="" width="300">
 </p>
+
+# Hello! ٩(ˊᗜˋ*)و
 
 My name is Nicole and I'm a junior at **Boston University**, studying **Computer Science** with a minor in **Business Administration**.
 
